@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+html {
+  font-size: 16px 32px;
+  font-family: "Futura, Times";
+  background-color: #F4F3FD;
+	 }
+	h1 {
+    text-align: center;
+	color:#8B83F3;
+	border-style: solid;
+    border-width: 5px 10px;
+	font-family: Futura;
+    padding: 20px 5px;
+}
+
+h2 {
+	color: #0B0647;
+	font-family: futura;
+   }
+
+li {
+	color: #0B0647;
+}
