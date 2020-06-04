@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html {
+  font-size: 16px 32px;
+  font-family: "Times";
+  background-color:#ffffff;
+	 }
+	h1 {
+    text-align: center;
+	color:#030303;
+	font-family: Times;
+    padding: 20px 5px;
+}
+
+h2 {
+	color: #030303;
+	font-family: Times;
+   }
+
+li {
+	color: #030303;
+}
