@@ -2,19 +2,19 @@
 
 html {
   font-size: 16px 32px;
-  font-family: "Times";
+  font-family: "Modern Sans Light";
   background-color:#ffffff;
 	 }
 	h1 {
     text-align: center;
 	color:#030303;
-	font-family: Times;
+	font-family: Modern Sans Light;
     padding: 20px 5px;
 }
 
 h2 {
 	color: #030303;
-	font-family: Times;
+	font-family: Modern Sans Light;
    }
 
 li {
